@@ -1,0 +1,17 @@
+{
+  "name": "한국사 암기장",
+  "short_name": "한국사 암기장",
+  "description": "한국사 기말 범위를 주제별 학습과 문제로 익히는 학습 앱",
+  "lang": "ko",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#F2F4F8",
+  "theme_color": "#2F5BEA",
+  "icons": [
+    {"src": "icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any"},
+    {"src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any"},
+    {"src": "icon-maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable"}
+  ]
+}
